@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DataStructures_Programming_Exercise_HashTables/DataStructures_Programming_Exercise_HashTables.vcxproj" Id="33eb51ff-a7dc-480a-80f0-acded9bbb20b" />
+</Solution>
